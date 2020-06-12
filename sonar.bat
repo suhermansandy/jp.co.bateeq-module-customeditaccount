@@ -1,0 +1,1 @@
+sonar-scanner.bat -D "sonar.organization=moonlay-github" -D "sonar.projectKey=jp-md-customeditaccount" -D "sonar.sources=." -D "sonar.host.url=https://sonarcloud.io" -D "sonar.login=ec626e8a5fa77dc2edd879e76b802eb2da62a01d"

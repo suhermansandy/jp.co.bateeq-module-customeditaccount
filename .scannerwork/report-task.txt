@@ -1,0 +1,7 @@
+organization=moonlay-github
+projectKey=jp-md-customeditaccount
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.4927
+dashboardUrl=https://sonarcloud.io/dashboard?id=jp-md-customeditaccount
+ceTaskId=AXB22Y7e9Ubs-QqiEiRc
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXB22Y7e9Ubs-QqiEiRc
